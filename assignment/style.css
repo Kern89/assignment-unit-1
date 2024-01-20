@@ -1,7 +1,7 @@
 /* Add a background color to the header element */
 header, main {
     background-color: rgb(244, 214, 158);
-    color: slategrey;
+    color: rgb(58, 54, 54);
 }
 /* Add a fun background color to the main element */
 /* Align the h1 containing your name in the center of the header*/
