@@ -1,25 +1,31 @@
 /* Add a background color to the header element */
-header, main, footer {
-    background-color: #0f0896;
+header, main {
+    background-color: rgb(244, 214, 158);
+    color: slategrey;
 }
 /* Add a fun background color to the main element */
-main {
-    background-color: #0f0896;
-}
 /* Align the h1 containing your name in the center of the header*/
 h1 {
     text-align: center;
 }
 /* Make your p tag a different color and italic */
 p {
-    color: #993ff3;
+    color: lavender;
+    font-style: italic;
 }
 /* Put a border around your image */
 img {
-    border: 1em solid #993ff3;
+    border: .5em solid slategrey;
+    max-width: 30%;
+    max-height: 5%;
+    border-radius: .5%;
 }
 /* Change the font-family of your list */
 list {
     font-family: Arial, Helvetica, sans-serif;
+    color: rgb(233, 233, 248);
 }
 /* Add a background color to the footer element */
+footer {
+    background-color: blueviolet;
+}
